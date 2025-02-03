@@ -14,10 +14,5 @@
 
 ---
 
-## 📊 GitHub Status  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&theme=transparent&bg_color=112&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff&hide_title=false)  
-
----
-
 ## 🔥 Minhas Contribuições  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/seu-usuario/dio-lab-open-source.git)  
+[![Repo Card]([https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/seu-usuario/dio-lab-open-source.git](https://github.com/WalterMonteirodabliu/dio-lab-open-source)  
